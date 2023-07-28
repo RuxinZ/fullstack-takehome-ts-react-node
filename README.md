@@ -1,4 +1,8 @@
-<h2 align="center"> A real-time collaborative text editor where more than one user can edit the text at the same time </h2>
+# Takehome Task for a Fullstack Engineer Role
+
+#### Task: A real-time collaborative text editor where more than one user can edit the text at the same time
+
+Read the instructions [here](https://github.com/RuxinZ/fullstack-takehome-ts-react-node/blob/main/INSTRUCTIONS.md)
 
 # Demo
 
