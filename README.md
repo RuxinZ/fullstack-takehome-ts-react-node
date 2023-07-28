@@ -33,6 +33,7 @@ TypeScript, React, WebSockets, Node.js, Vite, Jest, HMTL, CSS
 🚧 Proper typing (currently using a few `any` as placeholders) <br>
 🚧 Styling <br>
 🚧 Handling edge cases (for example, when multiple users type in the editor simultaneously ) <br>
+🚧 Deploy on Vercel <br>
 
 ## Area for improvement
 
