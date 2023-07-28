@@ -1,5 +1,7 @@
-### A real-time collaborative text editor where more than one user can edit the text at the same time
+<h3 align="center"> A real-time collaborative text editor where more than one user can edit the text at the same time </h3>
+
 # Demo
+
 ![Demo1](https://github.com/RuxinZ/fullstack-takehome-ts-react-node/assets/26369040/f07a0e0d-8ad3-41d2-b1a0-3b1c0ccb96e7)
 ![Demo2](https://github.com/RuxinZ/fullstack-takehome-ts-react-node/assets/26369040/5519bf00-de61-4250-be30-ee30da3d3ddf)
 
