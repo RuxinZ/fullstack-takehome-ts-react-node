@@ -18,7 +18,6 @@ const Users: React.FC<{
 
   return users.map((user: any) => (
     <div key={user.username}>
-      {/* <p>User</p> */}
       <span id={user.username} className="userInfo" key={user.username}>
         <Avatar name={user.username} size={'40'} round="20px" />
       </span>
