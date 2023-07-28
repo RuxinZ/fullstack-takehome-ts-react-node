@@ -31,7 +31,7 @@ TypeScript, React, WebSockets, Node.js, Vite, Jest, HMTL, CSS
 ✅ Set up client-side and WebSocket servers <br>
 ✅ Created modularized React components <br>
 ✅ Enabled user login functionality <br>
-✅ Created the layout for real-time collaborative text editor, which includes a display of a list of avatars for current users, a simple text editor, and a activity log <br>
+✅ Created the layout for a real-time collaborative text editor, which includes a list of avatars for current users, a simple text editor, and an activity log <br>
 ✅ Set up the necessary dependencies for testing <br>
 🚧 Unit tests & integration tests <br>
 🚧 WebSocket connection <br>
