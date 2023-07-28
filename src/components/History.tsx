@@ -2,9 +2,7 @@ import useWebSocket from 'react-use-websocket';
 import WS_URL from '../WS_URL';
 
 interface Activity {
-  // Define the structure of an activity here based on your data.
-  // For example:
-  // id: number;
+  // fix
   message: string;
 }
 
