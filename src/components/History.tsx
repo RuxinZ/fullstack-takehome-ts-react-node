@@ -9,8 +9,8 @@ interface Activity {
 }
 
 const History: React.FC<{
-  isUserEvent: (message: MessageEvent<any>) => boolean;
-}> = (isUserEvent): JSX.Element => {
+  isUserEvent: (message: any) => boolean;
+}> = ({ isUserEvent }): JSX.Element => {
   console.log('history');
   const {
     lastJsonMessage,
