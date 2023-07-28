@@ -1,0 +1,9 @@
+.main-container {
+  display: flex;
+  flex-direction: row;
+  align-items: top;
+}
+
+.doc-container {
+  margin-right: 2em;
+}
