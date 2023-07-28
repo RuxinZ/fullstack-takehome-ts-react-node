@@ -1,4 +1,4 @@
-<h3 align="center"> A real-time collaborative text editor where more than one user can edit the text at the same time </h3>
+<h2 align="center"> A real-time collaborative text editor where more than one user can edit the text at the same time </h2>
 
 # Demo
 
