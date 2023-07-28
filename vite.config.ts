@@ -11,8 +11,8 @@ export default defineConfig({
     manifest: true,
     rollupOptions: {
       input: {
-        server: './server/server.js', // entry point for the server-side code
-        client: './client/src/index.js', // entry point for the client-side code
+        server: './server/server.ts', // entry point for the server-side code
+        client: './src/main.tsx', // entry point for the client-side code
       },
     },
     outDir: 'dist/',
