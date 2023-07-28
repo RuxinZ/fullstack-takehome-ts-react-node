@@ -18,10 +18,8 @@ const Login = ({ onLogin }: LoginProps): JSX.Element => {
     if (!username.trim()) {
       return;
     }
-    onLogin && onLogin(username); // Triggers sendJsonMessage in App
+    onLogin && onLogin(username);
   }
-
-  // Rest of the component code...
 
   return (
     <div className="account">
